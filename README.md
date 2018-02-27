@@ -1,2 +1,2 @@
-# pinguela
+# Pinguela Components
 Components For Lazarus/FPC
